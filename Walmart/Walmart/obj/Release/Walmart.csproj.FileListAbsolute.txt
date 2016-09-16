@@ -1,0 +1,8 @@
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\bin\Release\Walmart.exe.config
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\bin\Release\Walmart.exe
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\bin\Release\Walmart.pdb
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Release\Walmart.WalmartForm.resources
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Release\Walmart.Properties.Resources.resources
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Release\Walmart.csproj.GenerateResource.Cache
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Release\Walmart.exe
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Release\Walmart.pdb

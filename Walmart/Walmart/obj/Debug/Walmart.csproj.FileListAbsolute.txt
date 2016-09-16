@@ -1,0 +1,10 @@
+C:\Users\Andreya\Documents\Assignments\Design Patterns\Walmart\Walmart\bin\Debug\Walmart.exe.config
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\bin\Debug\Walmart.exe.config
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Debug\Walmart.csprojResolveAssemblyReference.cache
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Debug\Walmart.WalmartForm.resources
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Debug\Walmart.Properties.Resources.resources
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Debug\Walmart.csproj.GenerateResource.Cache
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\bin\Debug\Walmart.exe
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\bin\Debug\Walmart.pdb
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Debug\Walmart.exe
+C:\Users\Andreya\Dropbox\Design Patterns\Walmart\Walmart\obj\Debug\Walmart.pdb
