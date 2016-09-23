@@ -1,0 +1,10 @@
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\bin\Debug\HumanSimulator.exe.config
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.Form1.resources
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.HumanForm.resources
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.Properties.Resources.resources
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.csproj.GenerateResource.Cache
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\bin\Debug\HumanSimulator.exe
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\bin\Debug\HumanSimulator.pdb
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.exe
+C:\Users\Andreya\Documents\Assignments\Design Patterns\HumanSimulator\HumanSimulator\obj\Debug\HumanSimulator.pdb
