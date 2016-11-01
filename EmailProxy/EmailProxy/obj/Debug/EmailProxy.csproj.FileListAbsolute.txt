@@ -1,0 +1,9 @@
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\bin\Debug\EmailProxy.exe.config
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\bin\Debug\EmailProxy.exe
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\bin\Debug\EmailProxy.pdb
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\obj\Debug\EmailProxy.csprojResolveAssemblyReference.cache
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\obj\Debug\EmailProxy.Form1.resources
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\obj\Debug\EmailProxy.Properties.Resources.resources
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\obj\Debug\EmailProxy.csproj.GenerateResource.Cache
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\obj\Debug\EmailProxy.exe
+C:\Users\Andreya\Documents\Assignments\Design Patterns\EmailProxy\EmailProxy\obj\Debug\EmailProxy.pdb
