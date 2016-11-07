@@ -1,0 +1,9 @@
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\bin\Debug\ImpedenceBridge.exe.config
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\bin\Debug\ImpedenceBridge.exe
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\bin\Debug\ImpedenceBridge.pdb
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\obj\Debug\ImpedenceBridge.csprojResolveAssemblyReference.cache
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\obj\Debug\ImpedenceBridge.Properties.Resources.resources
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\obj\Debug\ImpedenceBridge.csproj.GenerateResource.Cache
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\obj\Debug\ImpedenceBridge.exe
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\obj\Debug\ImpedenceBridge.pdb
+C:\Users\Andreya\Documents\Assignments\Design Patterns\ImpedenceBridge\ImpedenceBridge\obj\Debug\ImpedanceBridge.Form1.resources
