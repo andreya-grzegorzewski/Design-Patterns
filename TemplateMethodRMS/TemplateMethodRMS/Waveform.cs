@@ -8,9 +8,9 @@ namespace TemplateMethodRMS
 {
     public abstract class Waveform // This is an AbstractClass
     {
-        public double startPoint; // The start time of one period
-        public double endPoint;   // The end time of one period
-        public string expression; // The expression of the wave
+        protected double startPoint; // The start time of one period
+        protected double endPoint;   // The end time of one period
+        protected string expression; // The expression of the wave
 
         public Waveform(double startPoint, double endPoint, string expression)
         {
