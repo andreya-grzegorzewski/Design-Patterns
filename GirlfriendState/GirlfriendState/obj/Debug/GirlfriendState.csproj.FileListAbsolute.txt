@@ -1,0 +1,9 @@
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\bin\Debug\GirlfriendState.exe.config
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\bin\Debug\GirlfriendState.exe
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\bin\Debug\GirlfriendState.pdb
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\obj\Debug\GirlfriendState.csprojResolveAssemblyReference.cache
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\obj\Debug\GirlfriendState.Form1.resources
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\obj\Debug\GirlfriendState.Properties.Resources.resources
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\obj\Debug\GirlfriendState.csproj.GenerateResource.Cache
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\obj\Debug\GirlfriendState.exe
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\GirlfriendState\GirlfriendState\obj\Debug\GirlfriendState.pdb

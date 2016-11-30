@@ -1,0 +1,9 @@
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\bin\Debug\TemplateMethodRMS.exe.config
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\bin\Debug\TemplateMethodRMS.exe
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\bin\Debug\TemplateMethodRMS.pdb
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\obj\Debug\TemplateMethodRMS.csprojResolveAssemblyReference.cache
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\obj\Debug\TemplateMethodRMS.Form1.resources
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\obj\Debug\TemplateMethodRMS.Properties.Resources.resources
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\obj\Debug\TemplateMethodRMS.csproj.GenerateResource.Cache
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\obj\Debug\TemplateMethodRMS.exe
+C:\Users\Andreya\Documents\Visual Studio 2015\Projects\TemplateMethodRMS\TemplateMethodRMS\obj\Debug\TemplateMethodRMS.pdb
